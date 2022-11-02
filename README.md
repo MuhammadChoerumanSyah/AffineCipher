@@ -6,5 +6,6 @@
 | Kelas   | TI.20.A.1        |
 
 # Output
-![img1](/gambar/gambarencrypt.png)
-![img2](/gambar/gambardecrypt.png)
+![img1](/Gambar/gambarencrypt.png)
+
+![img2](/Gambar/gambardecrypt.png)
